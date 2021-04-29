@@ -9,6 +9,7 @@ A list of validators (readable name) and XOR addresses.
 * Lux8                            `cnWNjBNuzKVDFfPWQjw8eFirAszfnCNHW44xFAoJtdLvZmH3t`
 * sora-ninja                      `cnX6mTzywh8ib9tTcnAbkhqBu8X6vWPr7PZyonv8CyuPPnGqf`
 * 🪐_Hello_world_🪐              `cnSmvALMdvFxSmoSUGW18aVZkVktJYYw6dYhg9pBJNwR9eazu`
+* Freedom-Stake                   `cnUAzuxzZc62G6i8PuvRfFYr5nkV6YusncyyUDCZMC1jo5ULy`
 
 
 # Want ot appear on the list
