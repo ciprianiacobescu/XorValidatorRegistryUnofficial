@@ -14,7 +14,7 @@ A list of validators (readable name) and XOR addresses.
 * Stardust                        `cnWZFnv7qcWr4ndF9cyZyyyWaE3oCa18KJNQoorEfk44RzB2j`
 * PINEAPPLEEXPRESS                `cnVeZw3LB5g5v2U1Rmz4xKg46EyBQW2TkcT6UcD5JLgquAnR9`
 
-#Important 
+# Important 
 
 Try to spread the risk by nominating multiple validators - create more than one nominator account.
 Do not nominate oversubscripbed validators - the reward will be lower. 
