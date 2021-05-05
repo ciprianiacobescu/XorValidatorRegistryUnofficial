@@ -19,6 +19,8 @@ Try to spread the risk by nominating multiple validators - create more than one 
 Do not nominate oversubscripbed validators - the reward will be lower. 
 Do Your Own Research  -> Check validators at https://polkadot.js.org/apps/#/staking/query . Copy-paste the address and see if they were slashed! 
 
+Check if the node is reporting telemetry -> https://telemetry.polkadot.io/#list/SORA 
+
 
 # Want ot appear on the list
 Create a issue on this repo.
