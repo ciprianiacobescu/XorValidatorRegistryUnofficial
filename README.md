@@ -11,6 +11,7 @@ A list of validators (readable name) and XOR addresses.
 * 🪐_Hello_world_🪐              `cnSmvALMdvFxSmoSUGW18aVZkVktJYYw6dYhg9pBJNwR9eazu`
 * Freedom-Stake                   `cnUAzuxzZc62G6i8PuvRfFYr5nkV6YusncyyUDCZMC1jo5ULy`
 * CODENODE                        `cnX1JPxuMvXwrNHD9rB6hAmvZLVjW1PSzebMMHdVWxNKL8sC1`
+* Stardust                        `cnWZFnv7qcWr4ndF9cyZyyyWaE3oCa18KJNQoorEfk44RzB2j`
 
 #Important 
 
