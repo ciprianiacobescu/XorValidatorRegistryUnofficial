@@ -17,7 +17,7 @@ A list of validators (readable name) and XOR addresses.
 # Important 
 
 Try to spread the risk by nominating multiple validators - create more than one nominator account.
-Do not nominate oversubscripbed validators - the reward will be lower. 
+Do not nominate oversubscribed validators - the reward will be lower. 
 Do Your Own Research  -> Check validators at https://polkadot.js.org/apps/#/staking/query . Copy-paste the address and see if they were slashed! 
 
 Check if the node is reporting telemetry -> https://telemetry.polkadot.io/#list/SORA 
