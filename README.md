@@ -12,6 +12,7 @@ A list of validators (readable name) and XOR addresses.
 * Freedom-Stake                   `cnUAzuxzZc62G6i8PuvRfFYr5nkV6YusncyyUDCZMC1jo5ULy`
 * CODENODE                        `cnX1JPxuMvXwrNHD9rB6hAmvZLVjW1PSzebMMHdVWxNKL8sC1`
 * Stardust                        `cnWZFnv7qcWr4ndF9cyZyyyWaE3oCa18KJNQoorEfk44RzB2j`
+* PINEAPPLEEXPRESS                `cnVeZw3LB5g5v2U1Rmz4xKg46EyBQW2TkcT6UcD5JLgquAnR9`
 
 #Important 
 
@@ -23,7 +24,7 @@ Check if the node is reporting telemetry -> https://telemetry.polkadot.io/#list/
 
 
 # Want ot appear on the list
-Create a issue on this repo.
+Create a issue on this repo. Remember to report telemetry - if you are not present in https://telemetry.polkadot.io/#list/SORA , you won't be added. 
 
 
 # The BAD LIST 
