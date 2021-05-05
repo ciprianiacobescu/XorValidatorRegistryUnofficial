@@ -13,6 +13,7 @@ A list of validators (readable name) and XOR addresses.
 * CODENODE                        `cnX1JPxuMvXwrNHD9rB6hAmvZLVjW1PSzebMMHdVWxNKL8sC1`
 * Stardust                        `cnWZFnv7qcWr4ndF9cyZyyyWaE3oCa18KJNQoorEfk44RzB2j`
 * PINEAPPLEEXPRESS                `cnVeZw3LB5g5v2U1Rmz4xKg46EyBQW2TkcT6UcD5JLgquAnR9`
+* 2DCrypto❤️                      `cnWtZSJUAVd4ZtqnkhbeCqoxnTEZQgapFb8vm2ixRZ5eYSFoc`
 
 # Important 
 
