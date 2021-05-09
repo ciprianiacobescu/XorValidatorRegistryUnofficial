@@ -14,6 +14,8 @@ A list of validators (readable name) and XOR addresses.
 * Stardust                        `cnWZFnv7qcWr4ndF9cyZyyyWaE3oCa18KJNQoorEfk44RzB2j`
 * PINEAPPLEEXPRESS                `cnVeZw3LB5g5v2U1Rmz4xKg46EyBQW2TkcT6UcD5JLgquAnR9`
 * 2DCrypto❤️                      `cnWtZSJUAVd4ZtqnkhbeCqoxnTEZQgapFb8vm2ixRZ5eYSFoc`
+* RICEBOWL 2                      `cnVGC5Hj6fPrdT3FZS4cifQkZM38o5gFdGFL9i8HXc7r9Bz39`
+* RICEBOWL 1                      `cnUnjXnoZqE3wvzhFfRuqzdWeu21w9abji1gvGDgXMiuxTgau`
 
 # Important 
 
