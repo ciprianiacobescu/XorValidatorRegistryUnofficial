@@ -16,6 +16,9 @@ A list of validators (readable name) and XOR addresses.
 * 2DCrypto❤️                      `cnWtZSJUAVd4ZtqnkhbeCqoxnTEZQgapFb8vm2ixRZ5eYSFoc`
 * RICEBOWL 2                      `cnVGC5Hj6fPrdT3FZS4cifQkZM38o5gFdGFL9i8HXc7r9Bz39`
 * RICEBOWL 1                      `cnUnjXnoZqE3wvzhFfRuqzdWeu21w9abji1gvGDgXMiuxTgau`
+* Polkamap 1                      `cnVLbvxKzwgoRFgywfEfWBUMpqisivbfiZ9uHL7ZGyrrsVSZ5`
+* Polkamap 2                      `cnTteC9Z7SnoLBvKrBp7beAQPa4sSz2jf1uzBf5ZHHGRs3J1s`
+* Polkamap 3                      `cnVvig3Uc74pFi14WnEkKDHxZAXKXPWsGCsg7BDMmmJqyR6X9`
 
 # Important 
 
